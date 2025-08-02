@@ -8,8 +8,8 @@ it changes the channel name to 1 of 3 things
 
 # why would you want it 
 
-<h3> you would want this bot because it adds a easy way to tell is steam is on withut having to load steam up.
-saving you from some awkward cnversations </h3>
+<h3> you would want this bot because it adds a easy way to tell is steam is on without having to load steam up.
+saving you from some awkward conversations </h3>
 
 
 # how to set it up
