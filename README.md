@@ -10,3 +10,9 @@ it changes the channel name to 1 of 3 things
 
 <h3> you would want this bot because it adds a easy way to tell is steam is on withut having to load steam up.
 saving you from some awkward cnversations </h3>
+
+
+# how to set it up
+
+<h4> step 1 ignore the github
+step 2 </h4>
