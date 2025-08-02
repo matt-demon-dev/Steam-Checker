@@ -8,11 +8,8 @@
 
 
 
-
-
 # why would you want it 
-
-
 
 <h3> you would want this bot because it adds a easy way to tell is steam is on withut having to load steam up.</h3>
 <h3>saving you from some awkward cnversations </h3>
+
